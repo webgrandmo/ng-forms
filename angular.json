@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-forms"
+    }
+  },
+  "defaultProject": "angular-forms",
+  "cli": {
+    "analytics": "44efe7dc-c9de-43da-b506-b5664376cfe0"
+  }
 }
